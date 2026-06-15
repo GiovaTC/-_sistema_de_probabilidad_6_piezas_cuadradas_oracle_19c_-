@@ -1,7 +1,9 @@
 # -_sistema_de_probabilidad_6_piezas_cuadradas_oracle_19c_- :.
 # Sistema de Probabilidad de 6 Piezas Cuadradas con Oracle 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2598824-d6c4-4797-864a-44d06c306aa2" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2598824-d6c4-4797-864a-44d06c306aa2" />    
+
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/65be5c63-ffcf-4ad7-a456-5276b61f2433" />    
 
 ```
 
